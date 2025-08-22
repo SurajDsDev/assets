@@ -10177,12 +10177,12 @@
         {
             "mimeType" : "image/jpeg",
             "name" : "Material__wolf_col_tga_diffuse.jpeg",
-            "uri" : "Material__wolf_col_tga_diffuse_jpeg.jpg"
+            "uri" : "https://cdn.jsdelivr.net/gh/SurajDsDev/assets/Material__wolf_col_tga_diffuse_jpeg.jpg"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "eyes_diffuse.jpeg",
-            "uri" : "eyes_diffuse_jpeg.jpg"
+            "uri" : "https://cdn.jsdelivr.net/gh/SurajDsDev/assets/eyes_diffuse_jpeg.jpg"
         }
     ],
     "skins" : [
